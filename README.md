@@ -1,6 +1,6 @@
 ### Hi there, I'm Sarah Lawrence 👋
 
-![cover](http://url/to/cover.png)
+![cover](https://user-images.githubusercontent.com/57844845/96920955-ddd21e00-147b-11eb-8e8f-1ddc9d85196a.png)
 <!--
 **SarahMLawrence/SarahMLawrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
