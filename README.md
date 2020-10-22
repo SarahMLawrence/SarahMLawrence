@@ -1,5 +1,5 @@
 ### Hi there, I'm Sarah Lawrence 👋
-![cover](/images/cover)
+![cover](https://www.canva.com/design/DAELW3OYDXc/share/preview?token=ZfoEDfsJr792gcUvmntxIQ&role=EDITOR&utm_content=DAELW3OYDXc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <!--
 **SarahMLawrence/SarahMLawrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
