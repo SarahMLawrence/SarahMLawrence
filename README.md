@@ -1,4 +1,4 @@
-###Sarah Lawrence 
+Sarah Lawrence 
 
 ![cover](https://user-images.githubusercontent.com/57844845/96920955-ddd21e00-147b-11eb-8e8f-1ddc9d85196a.png)
 <!--
