@@ -1,6 +1,7 @@
 Sarah Lawrence 
 
 ![cover](https://user-images.githubusercontent.com/57844845/96920955-ddd21e00-147b-11eb-8e8f-1ddc9d85196a.png)
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](twitter)
 <!--
 **SarahMLawrence/SarahMLawrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
