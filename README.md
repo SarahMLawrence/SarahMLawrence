@@ -2,6 +2,8 @@ Sarah Lawrence
 
 ![cover](https://user-images.githubusercontent.com/57844845/96920955-ddd21e00-147b-11eb-8e8f-1ddc9d85196a.png)
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SarahMaLawrence)
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sarah-ma-lawrence/)
+[<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">](sarahlawrence1152@gmail.com)
 <!--
 **SarahMLawrence/SarahMLawrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
