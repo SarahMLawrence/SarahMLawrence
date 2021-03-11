@@ -1,5 +1,5 @@
+![cover](https://github.com/SarahMLawrence/SarahMLawrence/blob/main/images/cover.png)
 
-![cover](https://user-images.githubusercontent.com/57844845/96920955-ddd21e00-147b-11eb-8e8f-1ddc9d85196a.png)
 <b><i>Let's connect! </i></b>
 <br/>
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SarahMaLawrence)
