@@ -1,4 +1,4 @@
-![cover](https://github.com/SarahMLawrence/SarahMLawrence/blob/main/images/cover.png)
+![cover](https://github.com/SarahMLawrence/SarahMLawrence/blob/main/images/cover1.png)
 
 <b><i>Let's connect! </i></b>
 <br/>
