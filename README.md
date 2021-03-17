@@ -2,7 +2,7 @@
 
 ---
 
-
+![cover](https://github.com/SarahMLawrence/SarahMLawrence/blob/main/images/cover.gif)
 
 ---
 
