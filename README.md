@@ -2,9 +2,7 @@
 
 ---
 
-![](cover1.mp4)
 
-![cover](https://github.com/SarahMLawrence/SarahMLawrence/blob/main/images/cover1.png)
 
 ---
 
