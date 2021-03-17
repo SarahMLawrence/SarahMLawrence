@@ -34,7 +34,8 @@
 <br/>
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SarahMaLawrence)
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sarah-ma-lawrence/)
-[<img height="30" src="https://img.shields.io/badge/gmail-white.svg?&style=for-the-badge&logo=gmail&logoColor=red" />](sarahlawrence1152@gmail.com)
+[<img height="30" src="https://img.shields.io/badge/gmail-white.svg?&style=for-the-badge&logo=gmail&logoColor=red" />](mailto:sarahlawrence1152@gmail.com)
+
 <hr/>
 <a href="https://github.com/SarahMLawrence/SarahMLawrence">
 
