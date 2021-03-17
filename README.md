@@ -2,7 +2,7 @@
 
 ---
 
-![cover](https://github.com/SarahMLawrence/SarahMLawrence/blob/main/images/cover.gif)
+![cover](https://github.com/SarahMLawrence/SarahMLawrence/blob/main/images/cover2.gif)
 
 - 🔭 I just completed my education at Lambda School. 
 - 🌱 I’m currently brushing up my skills and plan to learn AWS and Cloud Computing.  
