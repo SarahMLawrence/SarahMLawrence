@@ -2,13 +2,14 @@
 
 ---
 
-![](cover1.mp4)
+![cover](https://github.com/SarahMLawrence/SarahMLawrence/blob/main/images/cover.gif)
 
-![cover](https://github.com/SarahMLawrence/SarahMLawrence/blob/main/images/cover1.png)
+- 🔭 I just completed my education at Lambda School. 
+- 🌱 I’m currently brushing up my skills and plan to learn AWS and Cloud Computing.  
+- 👯 I’m looking for a company where I can solve problems.
+- ⚡ I am willing to work on free-lance projects and love to contribute to open source projects. 
 
 ---
-
-  
 
 ### Langauges and Tools:
    <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -33,6 +34,8 @@
 <br/>
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SarahMaLawrence)
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sarah-ma-lawrence/)
+[<img height="30" src="https://img.shields.io/badge/gmail-white.svg?&style=for-the-badge&logo=gmail&logoColor=red" />](mailto:sarahlawrence1152@gmail.com)
+
 <hr/>
 <a href="https://github.com/SarahMLawrence/SarahMLawrence">
 
