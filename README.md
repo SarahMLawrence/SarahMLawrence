@@ -31,11 +31,13 @@
    
    </p>
 
-<b><i>Let's connect! </i></b>
-<br/>
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SarahMaLawrence)
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sarah-ma-lawrence/)
-[<img height="30" src="https://img.shields.io/badge/gmail-white.svg?&style=for-the-badge&logo=gmail&logoColor=red" />](mailto:sarahlawrence1152@gmail.com)
+### Lets Connect!
+<p align="left">
+<a href="https://twitter.com/SarahMaLawrence/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+<a href="https://www.linkedin.com/in/sarahmalawrence/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+<a href="mailto:sarahlawrence1152@gmail.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+</p>
+
 
 <hr/>
 <a href="https://github.com/SarahMLawrence/SarahMLawrence">
