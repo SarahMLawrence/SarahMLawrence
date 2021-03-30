@@ -36,6 +36,7 @@
 <a href="https://twitter.com/SarahMaLawrence/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
 <a href="https://www.linkedin.com/in/sarahmalawrence/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
 <a href="mailto:sarahlawrence1152@gmail.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+<a href="https://drive.google.com/file/d/1IxELkj50KUazaMARDiViOkrOBm9wKyvP/view" target="_blank"> <img src="https://github.com/SarahMLawrence/SarahMLawrence/blob/main/images/resume.png" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
 </p>
 
 
