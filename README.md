@@ -2,7 +2,7 @@
 
 ---
 
-![cover](https://github.com/SarahMLawrence/SarahMLawrence/blob/main/images/cover.gif)
+![cover](https://github.com/SarahMLawrence/SarahMLawrence/blob/main/images/cover2.gif)
 
 - 🔭 I just completed my education at Lambda School. 
 - 🌱 I’m currently brushing up my skills and plan to learn AWS and Cloud Computing.  
@@ -11,30 +11,33 @@
 
 ---
 
-### Langauges and Tools:
-   <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-   <img src="https://img.shields.io/badge/-Next.Js-fff?style=flat&logo=next.js&logoColor=000">
-   <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-   <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-   <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
-   <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
-   <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-   <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-   <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-   <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
-   <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
-   <img src="http://img.shields.io/badge/-Docker-white?style=flat&logo=docker&logoColor=blue"> 
+### Langauges and Tools: 
+<p align="left"> 
+   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>  &nbsp
+   <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+   <a href="https://html.com/html5/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+   <a href="https://www.javascript.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+   <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+   <a href="http://expressjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+   <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+   <a href="https://github.com/SarahMLawrence" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+   <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+   <a href="https://www.heroku.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+   <a href="https://www.netlify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+   <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+   <a href="https://aws.amazon.com/free/?trk=ps_a134p000006pkmzAAA&trkCampaign=acq_paid_search_brand&sc_channel=ps&sc_campaign=acquisition_US&sc_publisher=Bing&sc_category=core-main&sc_country=US&sc_geo=NAMER&sc_outcome=acq&sc_detail=aws&sc_content=Brand_Core_aws_e&sc_matchtype=e&sc_segment=&sc_medium=ACQ-P|PS-BI|Brand|Desktop|SU|Core-Main|Core|US|EN|Text&s_kwcid=AL!4422!10!71056092058919!71056537922248&s_kwcid=AL!4422!10!71056092058919!71056537922248&ef_id=0fc61cc14b6519da82c07c93d1f6d155:G:s&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+    <a href="https://replit.com/@sarahlawrence" target="_blank"> <img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+   
+   </p>
 
+### Lets Connect!
+<p align="left">
+<a href="https://twitter.com/SarahMaLawrence/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+<a href="https://www.linkedin.com/in/sarahmalawrence/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+<a href="mailto:sarahlawrence1152@gmail.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+</p>
 
-
-<b><i>Let's connect! </i></b>
-<br/>
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SarahMaLawrence)
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sarah-ma-lawrence/)
-[<img height="30" src="https://img.shields.io/badge/gmail-white.svg?&style=for-the-badge&logo=gmail&logoColor=red" />](mailto:sarahlawrence1152@gmail.com)
 
 <hr/>
 <a href="https://github.com/SarahMLawrence/SarahMLawrence">
